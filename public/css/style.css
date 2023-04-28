@@ -237,3 +237,9 @@ footer ul li a {
     color: white;
     margin: 0.5rem;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
